@@ -41,12 +41,12 @@ disk-advisor/
 
 2. プロジェクトフォルダへ移動:
    ```
-   cd C:\Users\wackman\disk-advisor
+   cd C:\Users\wackman\~~\disk-advisor
    ```
 
 3. ビルド実行:
    ```
-   build.bat
+   build2.bat
    ```
    ビルドは 3 ステップ（npm build → pip install → pyinstaller）で自動完了します。
 
