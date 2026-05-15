@@ -1,7 +1,8 @@
 # Disk Advisor
 
 CドライブのディスクをスキャンしてAIがアドバイスするWebアプリ。
-**単一の Windows EXE** として配布・実行できます。
+単一の Windows EXEとして配布・実行できます。
+Mockup_1.png、Mockup_2.pngが動作イメージ。
 
 ## プロジェクト構成
 
