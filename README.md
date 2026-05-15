@@ -41,7 +41,7 @@ disk-advisor/
 
 2. プロジェクトフォルダへ移動:
    ```
-   cd C:\Users\wackman\~~\disk-advisor
+   cd C:\Users\~userName~\disk-advisor
    ```
 
 3. ビルド実行:
